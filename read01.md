@@ -2,12 +2,13 @@
 
 **Responsive web design (RWD) is the practice of building a website that is suitable for all users, such that it works on all devices with any screen size, for both mobile and desktop, changing layout and content along the way.**
 
-## 
+## Responsive vs Adaptive vs Mobile
+
 - Responsive generally means to react quickly and positively to any change
   -  continually and fluidly change based on different factors, such as viewport width
-- adaptive means to be easily modified for a new purpose or situation, such as change
+- Adaptive means to be easily modified for a new purpose or situation, such as change
   - respond to preset factors
-- mobile means  to build a separate website only for mobile users
+- Mobile means  to build a separate website only for mobile users
 
 ## components of RWD:
 1. flexible layouts
@@ -24,13 +25,10 @@
 #### Relative Viewport Lengths:  
 relative length units, specifically related to the viewport size of the browser or device
 
-| `vw`                     | `vh`                       | `vmin`                                                    | 
-| ------------------ | ------------------- | ------------------------------------------ |
-| Viewports width | Viewports height  | viewport’s minimum height and width |
-| ------------------ | ------------------- | ------------------------------------------ |
-| `vmax`                                                    |
-| ------------------------------------------ | 
-| viewport’s maximum height and width |
+| `vw`            | `vh`             | `vmin`                              | `vmax`                              |
+| --------------- | ---------------- | ----------------------------------- | ----------------------------------- |
+| Viewports width | Viewports height | viewport’s minimum height and width | viewport’s maximum height and width |
+
 ___
 #### Proportions of a Flexible Layout Formula (using relative values):
 
@@ -71,6 +69,7 @@ ___
 - floats can be used to wrap text around images, or create entire web layouts or small instances layout
 
  ## Clearing Floats
+ 
 - `clear` is a CSS property used usually with `float` 
 - cleared elements will not wrap around floated elements, but will move down past the floated elements
 - `clear` property takes 4 values:
