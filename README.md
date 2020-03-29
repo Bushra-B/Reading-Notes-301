@@ -6,7 +6,7 @@
 
 Read # | Topic / Link
 ---------|-------------
-Read 1 | [SMACSS and Responsive Web Design](url)
+Read 1 | [SMACSS and Responsive Web Design](https://bushra-b.github.io/Reading-Notes-301/read01)
 ------------|----------------------------------------------------------------------------------
 REad 2 | [title](url)
 -------------------|----------------------------------------------------------------------------------------------------------
