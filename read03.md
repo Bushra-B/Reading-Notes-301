@@ -45,6 +45,7 @@ replaces variables and instances declared in a template file with actual values 
 
 ![flexbox-layout](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
 
+
  ### Properties used with the flex container:
  
 - display
