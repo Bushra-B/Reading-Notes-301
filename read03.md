@@ -6,16 +6,16 @@
 - **Template Engine:  
 replaces variables and instances declared in a template file with actual values at runtime, and convert the template into an HTML file sent to the client**
 
-- **Mustache:  **
-  - **a template syntax that can be used for anything (HTML, config files, source code ...)  **
-  - **works by expanding tags in a template using values provided in a hash or object  **
-  -  **often referred to as “logic-less” because it doesn't use if statements, else clauses, or for loops  **
+- **Mustache:**
+  - **a template syntax that can be used for anything (HTML, config files, source code ...)**
+  - **works by expanding tags in a template using values provided in a hash or object**
+  -  **often referred to as “logic-less” because it doesn't use if statements, else clauses, or for loops**
 
-- **mustache.js: **
+- **mustache.js:**
   - **an implementation of the mustache template system in JavaScript, and it is the base for JS templating**
   - **syntax: `{{placeholder}}`**
 
-- **mustache-express:  **
+- **mustache-express:**
   - **to use mustache with Node and Express**
   - **syntax: `res.render(template-file-name, JSON-data)`**
 
