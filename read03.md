@@ -1,6 +1,6 @@
 # Javascript Templating
 
-- ** JS Templating:  
+- **JS Templating:  
  a technique used to render client-side view templates (which are HTML markup, with added templating tags) with JS by using a JSON data source**
 
 - **Template Engine:  
