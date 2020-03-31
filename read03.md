@@ -45,3 +45,20 @@ replaces variables and instances declared in a template file with actual values 
 
 ![flexbox-layout](https://css-tricks.com/wp-content/uploads/2018/11/00-basic-terminology.svg)
 
+ ### Properties used with the flex container:
+ 
+- display
+- flex-direction
+- flex-wrap
+- flex-flow
+- align-content
+- align-items
+
+### Properties used with the flex items:
+
+- order
+- flex-grow
+- flex-shrink
+- flex-basis
+- flex
+- align-self and information about each one
